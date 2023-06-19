@@ -1,0 +1,130 @@
+﻿  EJERCICIOS:
+Indica la secuencia de pasos para los siguientes supuestos.
+1 HACER UNA PIZZA
+(Paso 1: hacer la masa)
+(Paso ultimo: sacarla del horno)
+1-	Hacer la masa
+2-	Colocar la salsa de la base
+3-	Definir los ingredientes principales (carne o verdura)
+4-	Definir los ingredientes secundarios (verduras, queso o carne)
+5-	Encender el horno
+6-	Definir la temperatura del horno. precalentar
+7-	Preparar los ingredientes.
+8-	Colocar los ingredientes en la masa con la salsa.
+9-	Colocar la pizza en el horno sobre una bandeja de rejilla.
+10-	Esperar un tiempo definido de 10-12 mins aprox.
+11-	Sacar la pizza del horno.
+2 PEDIR UNA PIZZA
+(Paso 1: marcar el nº de teléfono)
+(Paso n: colgar)
+1-	Marcar el número de teléfono.
+2-	Esperar a que cojan la llamada.
+3-	En caso negativo volver al paso 1 y repetir.
+4-	Si contestan. Saludar 
+5-	Interaccionar con el trabajador y pedirle una pizza. 
+6-	Seleccionar el tamaño de la pizza. (pequeña, mediana, familiar)
+7-	Seleccionar la pizza deseada de la carta.
+8-	Dar los datos personales
+9-	Seleccionar el método de pago (efectivo/tarjeta) 
+10-	Recibir información sobre el tiempo estimado de llegada.
+11-	Despedirse 
+12-	Colgar.
+3 SACAR UN CAFÉ DE LA MAQUINA.
+(Paso 1: insertar la moneda)
+(Paso n: recoger el café)
+1-	Insertar la moneda.
+2-	Seleccionar el tipo de café de entre todos los disponibles.
+3-	Pulsar el botón
+4-	Seleccionar la cantidad de azúcar a poner.
+5-	Esperar a que se prepare el café
+6-	Levantar la tapita anti-salpicaduras
+7-	Coger el café.
+APUNTE: las instrucciones deben de ser precisas y detalladas, para que la maquina ejecute el procedimiento de la manera deseada.
+
+  public class Main {  
+        public static void main(string[] args) {
+          /* ejercicio 1-2*/
+   System.out.println (" Fran Valero Parra \n 12345679 \n calle de la alegria");
+    }
+}
+
+ public class Main {  
+        public static void main(string[] args) {
+     /*ejercicio 3*/
+   System.out.println (" Hola \t     Hallo");
+   System.out.println (" Agua \t     Vann "); 
+   System.out.println (" madera \t tre");
+   System.out.println (" piedra \t stein");
+   System.out.println (" metal \t     metall");
+   System.out.println (" persona \t person");
+   System.out.println (" perro \t     hund ");
+   System.out.println (" gato \t     katt");
+   System.out.println (" mesa \t     bord");
+   System.out.println (" silla \t     stol");
+    }
+}
+ public class Main {  
+        public static void main(string[] args) {
+ 
+     /* EJERCICIO 4*/
+    System.out.println(" 8:00/8:55 \t     SI \t PROG \t SI \t LLMM \t SI "); 
+    System.out.println(" 8:55/9:50 \t     ANG \t PROG \t ANG \t SI \t BDA");
+    System.out.println("PATIO");
+    System.out.println(" 10:10/11:05 \t PROG \t ANG \t PROG \t PROG \t BDA ");
+    System.out.println(" 11:05/12:00 \t PROG \t FOL \t ED \t FOL \t BDA");
+    System.out.println("PATIO");
+    System.out.println(" 12:20/13:15 \t PROG \t FOL \t ED \t BDA \t LLMM");
+    System.out.println(" 13:15/14:10 \t LLMM \t SI \t ED \t BDA \t PROG");
+     }
+}
+ public class Main {  
+        public static void main(string[] args) {	 
+/*ejercicio 5-6*/
+      System.out.println("****");
+      System.out.println("***");
+      System.out.println("**");
+      System.out.println("*");
+      
+      System.out.println("   *");
+      System.out.println("  ***");
+      System.out.println(" *****");
+      System.out.println("*******");
+      
+      System.out.println("*");
+      System.out.println("**");
+      System.out.println("* *");
+      System.out.println("****");
+      
+      System.out.println("   *");
+      System.out.println("  * *");
+      System.out.println(" *   *");
+      System.out.println("*******");
+    
+    }
+}
+ejercicio 2 variables
+    }
+}
+public class MyClass {
+    public static void main(String args[]) {
+     String nombre = "fran valero, "; int edad = 25; String calle = ", calle alegre, "; int numero_tlf = 123456789;
+     System.out.println (nombre + edad + calle + numero_tlf);
+    }
+}
+ ejercicio 2 variables
+public class MyClass {
+    public static void main(String args[]) {
+     String palabra1 = "Hola\tHallo\n";
+     String palabra2 = "Agua\tVann\n";  
+     String palabra3 = "madera\ttre\n";
+     String palabra4 = "piedra \t stein\n";
+     String palabra5 = "metal\tmetall\n";
+     String palabra6 = "persona\tperson\n";
+     String palabra7 = "perro\thund\n";
+     String palabra8 = "gato\tkatt\n";
+     String palabra9 = "mesa\tbord\n";
+     String palabra10 = "silla\tstol\n";
+     System.out.println (palabra1+ palabra2 +palabra3+palabra4+palabra5+palabra6+palabra7+palabra8+palabra9+palabra10);
+    }
+}
+

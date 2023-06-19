@@ -1,0 +1,10 @@
+
+f
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8¬¹êıä0HÄRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Â€öÙşÿÿÿÿ8¬¹êıä0HÆRMAJORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŸÙšüÿÿÿÿHÇRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ä¿¼ùùÿÿÿÿ8¬¹êıä0HÈRMAJORZ
+CODE_SMELL

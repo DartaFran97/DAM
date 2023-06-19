@@ -1,0 +1,15 @@
+
+[
+java:S1172"+Remove this unused method parameter "edad".(ß“øšıÿÿÿÿHQRMAJORZ
+CODE_SMELL
+e
+java:S1172"5Remove these unused method parameters "name", "edad".(‹Ì†şÿÿÿÿHSRMAJORZ
+CODE_SMELL
+‹
+java:S1488"`Immediately return this expression instead of assigning it to the temporary variable "imprimir".(šÕÊ¹HWRMINORZ
+CODE_SMELL
+‰	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Êû‡³ùÿÿÿÿHZRMINORZ
+CODE_SMELL
+V
+java:S1172"+Remove this unused method parameter "name".(î§¦H[RMAJORZ
+CODE_SMELL

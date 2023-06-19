@@ -1,0 +1,6 @@
+
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŸÙšüÿÿÿÿHÉRMINORZ
+CODE_SMELL
+™
+java:S1488'"aImmediately return this expression instead of assigning it to the temporary variable "perimetro".(³¥¹˜üÿÿÿÿ8òøÛøä0HÆRMINORZ
+CODE_SMELL

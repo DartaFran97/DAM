@@ -1,0 +1,50 @@
+
+‘
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(±Šñ¬ıÿÿÿÿ8‰¸¶“é0HŸRMINORZ
+CODE_SMELL
+k	java:S106J"9Replace this use of System.out or System.err by a logger.(Ü¶Ò³8Ëù‰—é0H¡RMAJORZ
+CODE_SMELL
+k	java:S106 "9Replace this use of System.out or System.err by a logger.(©É¬8‰¸¶“é0H¢RMAJORZ
+CODE_SMELL
+k	java:S106L"9Replace this use of System.out or System.err by a logger.(Ø”À¸8Ëù‰—é0H£RMAJORZ
+CODE_SMELL
+p	java:S1061"9Replace this use of System.out or System.err by a logger.(µ©œàşÿÿÿÿ8Ëù‰—é0H¤RMAJORZ
+CODE_SMELL
+p	java:S106="9Replace this use of System.out or System.err by a logger.(µ©œàşÿÿÿÿ8Ëù‰—é0H¥RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ä˜ùáşÿÿÿÿ8Ëù‰—é0H¦RMAJORZ
+CODE_SMELL
+š
+java:S4165>"gRemove this useless assignment; "resultado" already holds the assigned value along all execution paths.(óŞ¢ó8Ëù‰—é0H§RMAJORZ
+CODE_SMELL
+š
+java:S41658"gRemove this useless assignment; "resultado" already holds the assigned value along all execution paths.(óŞ¢ó8Ëù‰—é0H¨RMAJORZ
+CODE_SMELL
+‚
+java:S2159"VRemove this call to "equals"; comparisons between unrelated types always return false.(ûèœÂ8Ëù‰—é0H©RMAJORZBUG
+
+java:S1192"SDefine a constant instead of duplicating this literal "operaciÃ³n exitosa" 4 times.(µ©œàşÿÿÿÿ8Ëù‰—é0HªRCRITICALZ
+CODE_SMELL
+k	java:S106#"9Replace this use of System.out or System.err by a logger.(ãÂˆò8Ëù‰—é0H¯RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(µ©œàşÿÿÿÿ8‰¸¶“é0H°RMAJORZ
+CODE_SMELL
+y
+java:S1117"ARename "listaContactos" which hides the field declared at line 8.(±Šñ¬ıÿÿÿÿ8‰¸¶“é0H±RMAJORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿à¬óH²RMINORZ
+CODE_SMELL
+š
+java:S41652"gRemove this useless assignment; "resultado" already holds the assigned value along all execution paths.(óŞ¢ó8Ëù‰—é0H³RMAJORZ
+CODE_SMELL
+p	java:S106B"9Replace this use of System.out or System.err by a logger.(Ä˜ùáşÿÿÿÿ8Ëù‰—é0H´RMAJORZ
+CODE_SMELL
+p	java:S1067"9Replace this use of System.out or System.err by a logger.(µ©œàşÿÿÿÿ8Ëù‰—é0HµRMAJORZ
+CODE_SMELL
+k
+java:S1481"3Remove this unused "listaContactos" local variable.(±Šñ¬ıÿÿÿÿ8‰¸¶“é0H¶RMINORZ
+CODE_SMELL
+w
+java:S2175I"KA "HashMap<String, Integer>" cannot contain a "String" in a "Integer" type.(‹ƒ¹8Ëù‰—é0H¸RMAJORZBUG
+ˆ	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ÉÚ¡üÿÿÿÿ8Ëù‰—é0H¹RMINORZ
+CODE_SMELL

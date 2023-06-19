@@ -1,0 +1,56 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(œÉÌÊıÿÿÿÿ8¦®íÆğ0H†RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(¾ĞÌ“8¦®íÆğ0H‡RMAJORZ
+CODE_SMELL
+Œ
+java:S1192="VDefine a constant instead of duplicating this literal "el contacto no existe" 3 times.(Ø”À¸8Âó¤Çğ0HˆRCRITICALZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(•‘¸îûÿÿÿÿ8¦®íÆğ0HŒRMAJORZ
+CODE_SMELL
+p	java:S106U"9Replace this use of System.out or System.err by a logger.(ÄŸüœûÿÿÿÿ8¦®íÆğ0HRMAJORZ
+CODE_SMELL
+p	java:S1066"9Replace this use of System.out or System.err by a logger.(ÄŸüœûÿÿÿÿ8¦®íÆğ0HRMAJORZ
+CODE_SMELL
+k	java:S106f"9Replace this use of System.out or System.err by a logger.(ÈÌâì8­«èÇğ0HRMAJORZ
+CODE_SMELL
+p	java:S106*"9Replace this use of System.out or System.err by a logger.(ÄŸüœûÿÿÿÿ8¦®íÆğ0HRMAJORZ
+CODE_SMELL
+p	java:S106E"9Replace this use of System.out or System.err by a logger.(êï·íşÿÿÿÿ8¦®íÆğ0H‘RMAJORZ
+CODE_SMELL
+
+java:S1192*"bDefine a constant instead of duplicating this literal "introduzca el nombre del contacto" 4 times.(ÄŸüœûÿÿÿÿ8¦®íÆğ0H’RCRITICALZ
+CODE_SMELL
+ˆ	java:S117Y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚĞŠøùÿÿÿÿ8­«èÇğ0H—RMINORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŸÙÂ¿ûÿÿÿÿH˜RMINORZ
+CODE_SMELL
+k	java:S106]"9Replace this use of System.out or System.err by a logger.(Ø”À¸8Âó¤Çğ0H™RMAJORZ
+CODE_SMELL
+p	java:S106!"9Replace this use of System.out or System.err by a logger.(´ØğÀùÿÿÿÿ8¦®íÆğ0HšRMAJORZ
+CODE_SMELL
+k	java:S106["9Replace this use of System.out or System.err by a logger.(† ª8Âó¤Çğ0H›RMAJORZ
+CODE_SMELL
+k	java:S106-"9Replace this use of System.out or System.err by a logger.(õ’°ò8¦®íÆğ0HœRMAJORZ
+CODE_SMELL
+k	java:S106M"9Replace this use of System.out or System.err by a logger.(¿ßâ¸8Âó¤Çğ0HRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(­”Ö²üÿÿÿÿ8¦®íÆğ0HRMAJORZ
+CODE_SMELL
+p	java:S106H"9Replace this use of System.out or System.err by a logger.(õøØ…ÿÿÿÿÿ8¦®íÆğ0HŸRMAJORZ
+CODE_SMELL
+k	java:S106="9Replace this use of System.out or System.err by a logger.(Ø”À¸8¦®íÆğ0H RMAJORZ
+CODE_SMELL
+f
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8êæÃÇğ0H¡RMINORZ
+CODE_SMELL
+j	java:S106c"9Replace this use of System.out or System.err by a logger.(¿ª™K8Âó¤Çğ0H£RMAJORZ
+CODE_SMELL
+k	java:S106O"9Replace this use of System.out or System.err by a logger.(Ø”À¸8Âó¤Çğ0H¤RMAJORZ
+CODE_SMELL
+p	java:S106:"9Replace this use of System.out or System.err by a logger.(õ¯ƒúÿÿÿÿ8¦®íÆğ0H¥RMAJORZ
+CODE_SMELL
+k	java:S106 "9Replace this use of System.out or System.err by a logger.(ó’Ëò8¦®íÆğ0H¦RMAJORZ
+CODE_SMELL
+p	java:S106C"9Replace this use of System.out or System.err by a logger.(ÄŸüœûÿÿÿÿ8¦®íÆğ0H§RMAJORZ
+CODE_SMELL

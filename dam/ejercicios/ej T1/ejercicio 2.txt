@@ -1,0 +1,541 @@
+/*ejrcicio 1/*
+import java.util.Scanner;
+
+public class MyClass {
+    public static void main(String args[]) {
+    
+    Scanner teclado = new Scanner(System.in);
+    String nombre;
+
+    System.out.println(" buenos días. ¿cual es tu mombre?");
+    
+    nombre = teclado.nextLine();
+    
+	int edad;
+	
+	System.out.println(" y tu edad? ");
+	edad = teclado.nextInt();
+	System.out.println("tu nombre es " + nombre + " y tienes " + edad + " años" );
+    }
+}
+*/ejrcicio 2 y 3*/
+import java.util.Scanner;
+
+public class MyClass {
+    public static void main(String args[]) {
+    
+    Scanner teclado = new Scanner(System.in);
+    int lado;
+
+    System.out.println("introduzca la medida del lado del cuadrado");
+    
+    lado = teclado.nextInt();
+    
+    System.out.println("el Area del cuadrado es: " + lado * lado);
+    }
+}
+//ejercicio4//
+public class MyClass {
+    public static void main(String args[]) {
+        
+        // la variable es double //
+     int longitud_radio;
+     double area;
+     double longitud;
+     double volumen;
+     
+     Scanner teclado = new Scanner(System.in);
+     
+     System.out.println("introduzca la longitud del radio del circulo a calcular:");
+     longitud_radio = teclado.nextInt ();= teclado.nextInt ();
+     area = 3.14 * longitud_radio * longitud_radio;
+     volumen =  4 / 3 * 3.14 * longitud_radio * longitud_radio * longitud_radio;
+     longitud =  2* 3.14 * longitud_radio;
+     
+     System.out.println("el area del circulo:" + area);
+     
+     System.out.println("longitud de la circunferencia: " + longitud);   
+     
+     System.out.println("Volumen de la esfera " + volumen);
+     
+    
+        
+        
+    }
+}
+//ejercicio 5 //
+import java.util.Scanner;
+
+public class MyClass {
+    public static void main(String args[]) {
+        
+    Scanner teclado = new Scanner(System.in);
+    double fabric_price;
+    double real_price;
+    double diference;
+    double discount;
+    
+    System.out.println("introduzca el precio de fabrica");
+    fabric_price =  teclado.nextDouble ();
+    
+    System.out.println("introduzca el precioen tienda");
+    real_price =  teclado.nextDouble ();
+    
+    diference = real_price - fabric_price; 
+    discount = (diference * 100)/ real_price;
+    
+    System.out.println("el porcentaje de margen es " + discount + "%");
+	
+	}
+}
+     
+	 //ejercicio 6//
+	 import java.util.Scanner;
+	 
+
+public class MyClass {
+    public static void main(String args[]) {
+    
+    Scanner teclado = new Scanner(System.in);
+    int metros;
+    int millas;
+    
+    System.out.println("introduzca el numero de millas marinas a calcular:");
+    millas = teclado.nextInt ();
+    metros = 1852 * millas ;
+    
+    System.out.println(millas + " millas marinas son " + metros + " metros");
+	}
+}
+
+//ejercicio 7//
+import java.util.Scanner;
+
+public class MyClass {
+    public static void main(String args[]) {
+    
+    Scanner teclado = new Scanner(System.in);
+    double num1;
+    double num2;
+    double sum;
+    double rest;
+    double mult;
+    double divi;
+    
+    System.out.println("introduzca el primer numero a procesar");
+    num1 = teclado.nextDouble ();
+    System.out.println("introduzca el primer numero a procesar");
+    num2 =teclado.nextDouble ();
+    
+    sum = num1 + num2;
+    rest = num1 - num2;
+    mult = num1 * num2;
+    divi = num1 / num2;
+    
+    System.out.println("suma " + sum);
+    System.out.println("resta " + rest);
+    System.out.println("producto " + mult);
+    System.out.println("dividión " + divi);
+    
+     
+    }
+}
+//ejercicio 8//
+import java.util.Scanner;
+
+public class MyClass {
+    public static void main(String args[]) {
+    
+    Scanner teclado = new Scanner(System.in);
+    double altura ;
+    double base ;
+    double area ; 
+    
+    
+    System.out.println("cuanto mide la base del triamnguñlo? ");
+    base = teclado.nextDouble ();
+    System.out.println("cuanto mide la altura del triangulo? ");
+    altura  =teclado.nextDouble ();
+    
+    area = (base * altura) / 2;
+    System.out.println("el area del triangulo es:  " + area);
+    
+    
+    
+    }
+}
+//ejercicio 9//
+import java.util.Scanner;
+
+public class MyClass {
+    public static void main(String args[]) {
+    
+    Scanner teclado = new Scanner(System.in);
+    double nota1;
+    double nota2;
+    double nota3;
+    double media_final;
+    
+    System.out.println("introduzca la nota de la 1º evaluación");
+   
+    nota1 = teclado.nextDouble();
+    
+    System.out.println("introduzca la nota de la 2º evaluación");
+   
+    nota2 = teclado.nextDouble();
+    
+    System.out.println("introduzca la nota de la 3º evaluación");
+    
+    nota3 = teclado.nextDouble();
+    
+    media_final = (nota1 + nota2 + nota3) / 3;
+    
+     System.out.println("su nota media es de: " + media_final);
+    
+    }
+}
+// ejercicio 10//
+import java.util.Scanner;
+
+public class MyClass {
+    public static void main(String args[]) {
+    
+    Scanner teclado = new Scanner(System.in);
+    double radio ;
+    double perimetro ;
+    double area ;
+    
+    System.out.println("introduzca el radio de la circunferencia");
+    radio = teclado.nextDouble();
+    
+    perimetro = 2 * 3.14 * radio ; 
+    area = 2 * 3.14 * (radio * radio) ;
+    
+    System.out.println("el perimetro de la circunferencia es de: " + perimetro + " y el area " + area) ;
+    
+    }
+}
+//ejercicio 11//
+import java.util.Scanner;
+
+public class MyClass {
+    public static void main(String args[]) {
+    
+    Scanner teclado = new Scanner(System.in);
+    System.out.println("introduzca el valor 1 (A)");
+    double a = teclado.nextDouble();
+    
+    System.out.println("introduzca el valor 2 (B)");
+    double b = teclado.nextDouble();
+    
+    double c = a ;
+    a = b ;
+    b = c ;
+    
+    System.out.println("el valor de A es: " + a + "el valor de B es: " + c);
+    
+    
+    
+     
+    }
+}
+//variante del 11//
+import java.util.Scanner;
+
+public class MyClass {
+    public static void main(String args[]) {
+    
+    Scanner teclado = new Scanner(System.in);
+    System.out.println("introduzca el valor 1 (A)");
+    double a = teclado.nextDouble();
+    
+    System.out.println("introduzca el valor 2 (B)");
+    double b = teclado.nextDouble();
+    
+   
+    
+    System.out.println("el valor de A es: " + b + "el valor de B es: " + a);
+    
+    }
+}
+//ejercicio 12
+import java.util.Scanner;
+
+public class MyClass {
+    public static void main(String args[]) {
+    
+    Scanner teclado = new Scanner(System.in);
+    System.out.println("introduzca el valor a transformar en Kb");
+    int num1 = teclado.nextInt();
+    int num2 = num1 / 1024;
+    
+    System.out.println(num1 + " KB son: " + num2 + "MB");
+    
+     
+    }
+}
+//ejercicio 13
+import java.util.Scanner;
+
+public class MyClass {
+    public static void main(String args[]) {
+    
+    Scanner teclado = new Scanner(System.in);
+    System.out.println("introduzca el sueldo de empreado_1");
+    double a = teclado.nextDouble ();
+    System.out.println("introduzca el sueldo de empreado_2");
+    double b = teclado.nextDouble ();
+    System.out.println("introduzca el sueldo de empreado_3");
+    double c = teclado.nextDouble ();
+    
+    double num_1 = (3 * a) / 100 ;
+    double num_2 = (5 * b) / 100 ;
+    double num_3 = (8 * c) / 100 ;
+    
+    double f1 = num_1 + a ;
+    double f2 = num_2 + b ;
+    double f3 = num_3 + c ;
+    
+    System.out.println("la subida del 3% es igual a: " + num_1 + " y el sueldo total es de: " + f1 + "€");
+    System.out.println("la subida del 5% es igual a: " + num_2 + " y el sueldo total es de: " + f2 + "€");
+    System.out.println("la subida del 8% es igual a: " + num_3 + " y el sueldo total es de: " + f3 + "€");
+    
+    
+    
+     
+    }
+}
+//ejercicio 14
+import java.util.Scanner;
+
+public class MyClass {
+    public static void main(String args[]) {
+    
+    Scanner teclado = new Scanner(System.in);
+    System.out.println("introduzca la cantidad de dinero que dispone en su banco");
+    double a = teclado.nextDouble ();
+    
+    double num_1 = (20 * a) / 100 ;
+   
+    
+    double f1 = num_1 + a ;
+    
+    
+    System.out.println("la subida del 20% es igual a: " + num_1 + " y el saldo total es de: " + f1 + "€");
+    
+    
+    
+    
+     
+    }
+}
+//ejercicio 15
+import java.util.Scanner;
+
+public class MyClass {
+    public static void main(String args[]) {
+    
+    Scanner teclado = new Scanner(System.in);
+    System.out.println("introduzca nota 1º evaluación");
+    double a = teclado.nextDouble ();
+    System.out.println("introduzca nota 2º evaluación");
+    double b = teclado.nextDouble ();
+    System.out.println("introduzcanota 3º evaluación");
+    double c = teclado.nextDouble ();
+    
+    double num_1 = (35 * a) / 100 ;
+    double num_2 = (35 * b) / 100 ;
+    double num_3 = (30 * c) / 100 ;
+    
+    double notaFinal = num_1 + num_2 + num_3 ;
+    
+    System.out.println("la subida del 3% es igual a: " + notaFinal );
+    
+    
+    
+     
+    }
+}
+//ejercicio 16
+import java.util.Scanner;
+
+public class MyClass {
+    public static void main(String args[]) {
+    
+    Scanner teclado = new Scanner(System.in);
+    System.out.println("introduzca su año de nacimiento ");
+    int nacimiento = teclado.nextInt();
+    System.out.println("introduzca sus años ");
+    int años = teclado.nextInt();
+    
+    final int jubilación = 65;
+    int años_resto = nacimiento + jubilación;
+    int dif = jubilación - años ;
+    
+    System.out.println("su año de jubilación es " + años_resto + " le quedan " + dif + " años para jubilarse");
+    
+    
+     
+    }
+}
+// ejercicio 17
+import java.util.Scanner;
+
+public class MyClass {
+    public static void main(String args[]) {
+    
+    Scanner teclado = new Scanner(System.in);
+    System.out.println("introduzca la cantidad de € ");
+    double euros = teclado.nextDouble();
+    double bitcoin;
+    bitcoin = euros * 0.00005116 ;
+    
+    System.out.println("tienes: " + bitcoin + "bitcoin");
+    
+    
+     
+    }
+}
+//ejercicio 18
+import java.util.Scanner;
+
+public class MyClass {
+    public static void main(String args[]) {
+    
+    Scanner teclado = new Scanner(System.in);
+    System.out.println("introduzca el numero de horas. ");
+    double horas = teclado.nextDouble();
+    double segundos = (horas * 60) * 60 ;
+    
+    System.out.println(horas +" horas son : " + segundos + "segundos");
+    
+    
+     
+    }
+}
+
+//ejercicio 9
+import java.util.Scanner;
+
+public class MyClass {
+    public static void main(String args[]) {
+    
+    Scanner teclado = new Scanner(System.in);
+    System.out.println("para resolver (a+b)/(c+d)*2 ");
+    System.out.println("introduca el numero A ");
+    double a = teclado.nextDouble();
+    System.out.println("introduca el numero B ");
+    double b = teclado.nextDouble();
+    System.out.println("introduca el numero C ");
+    double c = teclado.nextDouble();
+    System.out.println("introduca el numero D ");
+    double d = teclado.nextDouble();
+    
+    double result = ( a + b )/( c + d ) * 2;
+    
+    System.out.println("resultado: " + result );
+    
+    
+     
+    }
+}
+
+//ejercicio 20
+import java.util.Scanner;
+
+public class MyClass {
+    public static void main(String args[]) {
+    
+    Scanner teclado = new Scanner(System.in);
+    
+    System.out.println("introduca el numero A ");
+    double a = teclado.nextDouble();
+    System.out.println("introduca el numero B ");
+    double b = teclado.nextDouble();
+    System.out.println("introduca el numero C ");
+    double c = teclado.nextDouble();
+    System.out.println("introduca el numero D ");
+    double d = teclado.nextDouble();
+    
+    double result1 = a + b  ;
+    
+    System.out.println("resultado de la suma: " + result1);
+    
+    System.out.println("introduca el numero E ");
+    double e = teclado.nextDouble();
+    
+    double result_final = result1 * e ;
+    
+    System.out.println("resultado: " + result_final );
+    
+    
+     
+    }
+}
+//ejercicio 21
+import java.util.Scanner;
+
+public class MyClass {
+    public static void main(String args[]) {
+    
+    Scanner teclado = new Scanner(System.in);
+    
+    System.out.println("introduca los kilometros recorridos ");
+    double a = teclado.nextDouble();
+    System.out.println("introduca los litros de combustible utilizado ");
+    double b = teclado.nextDouble();
+    
+    
+    double result1 = b / a  ;
+    
+    
+    
+    System.out.println("litos x kilometro: " + result1 );
+    
+    
+     
+    }
+}
+//ejercicio 22
+import java.util.Scanner;
+
+public class MyClass {
+    public static void main(String args[]) {
+    
+    Scanner teclado = new Scanner(System.in);
+    
+    System.out.println("introduca grados Fahrenheit ");
+    double a = teclado.nextDouble();
+    
+    
+    
+    double result1 = (a - 32) * 5 / 9 ;
+    
+    
+    
+    System.out.println( a + " Fº son: " + result1 + "cº" );
+    
+    
+     
+    }
+}
+//ejercicio 23
+import java.util.Scanner;
+
+public class MyClass {
+    public static void main(String args[]) {
+    
+    Scanner teclado = new Scanner(System.in);
+    
+    System.out.println("ingrese la pimera palabra:");
+    String a = teclado.nextLine();
+    System.out.println("ingrese la segunda palabra:");
+    String b = teclado.nextLine();
+    
+    
+    System.out.println( a + " " + b );
+    
+    
+     
+    }
+}

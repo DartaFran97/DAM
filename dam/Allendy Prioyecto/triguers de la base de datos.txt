@@ -1,0 +1,51 @@
+
+#el trigger
+
+DELIMITER //
+CREATE TRIGGER insert_task_trigger AFTER INSERT ON tarea
+FOR EACH ROW
+BEGIN
+    DECLARE asistentes_count INT;
+    DECLARE i INT DEFAULT 1;
+    DECLARE current_asistente VARCHAR(100);
+    
+    SET asistentes_count = LENGTH(NEW.asistentes) - LENGTH(REPLACE(NEW.asistentes, ',', '')) + 1;
+    
+    WHILE i <= asistentes_count DO
+        SET current_asistente = SUBSTRING_INDEX(SUBSTRING_INDEX(NEW.asistentes, ',', i), ',', -1);
+        
+        INSERT INTO tarea (id_agendaTarea, id_usuarioTarea, fecha_tarea, fecha_fin, descripcion, tipo)
+        SELECT NEW.id_agendaTarea, id_usuarioAgenda, NEW.fecha_tarea, NEW.fecha_fin, NEW.descripcion, NEW.tipo
+        FROM Agenda
+        WHERE id_agendaAgenda = NEW.id_agendaTarea AND id_usuarioAgenda = (SELECT id_usuarios FROM usuarios WHERE nickname = current_asistente);
+        
+        SET i = i + 1;
+    END WHILE;
+END //
+DELIMITER ;
+
+#procedimiento 1
+
+CREATE PROCEDURE sp_clasificar_tareas_por_tipo_estimado(IN p_tipo_estimado VARCHAR(45))
+BEGIN
+    SELECT *
+    FROM tarea
+    WHERE tipo = p_tipo_estimado
+    ORDER BY tipo;
+END;
+
+CALL sp_clasificar_tareas_por_tipo_estimado('tipo_estimado');
+
+#procedimiento2 
+
+CREATE PROCEDURE sp_clasificar_tareas_por_prioridad_estimada(IN p_prioridad_estimada VARCHAR(45))
+BEGIN
+    SELECT *
+    FROM tarea
+    WHERE prioridad = p_prioridad_estimada
+    ORDER BY FIELD(prioridad, 'Alta', 'Media', 'Baja');
+END;
+
+CALL sp_clasificar_tareas_por_prioridad_estimada('prioridad_estimada');
+
+

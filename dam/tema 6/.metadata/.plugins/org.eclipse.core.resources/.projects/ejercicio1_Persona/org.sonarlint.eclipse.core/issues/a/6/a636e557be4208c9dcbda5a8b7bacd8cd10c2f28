@@ -1,0 +1,39 @@
+
+ƒ
+java:S1192"UDefine a constant instead of duplicating this literal "introduzca el nombre" 3 times.(ığ¯üH3RCRITICALZ
+CODE_SMELL
+†
+java:S1192"SDefine a constant instead of duplicating this literal "introduzca su edad" 3 times.(Ôäº€úÿÿÿÿH7RCRITICALZ
+CODE_SMELL
+‰	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Êû‡³ùÿÿÿÿH;RMINORZ
+CODE_SMELL
+c	java:S106"9Replace this use of System.out or System.err by a logger.(ığ¯üH<RMAJORZ
+CODE_SMELL
+h	java:S106"9Replace this use of System.out or System.err by a logger.(Ôäº€úÿÿÿÿH=RMAJORZ
+CODE_SMELL
+c	java:S106"9Replace this use of System.out or System.err by a logger.(ığ¯üH>RMAJORZ
+CODE_SMELL
+h	java:S106"9Replace this use of System.out or System.err by a logger.(Ôäº€úÿÿÿÿH?RMAJORZ
+CODE_SMELL
+c	java:S106"9Replace this use of System.out or System.err by a logger.(ığ¯üH@RMAJORZ
+CODE_SMELL
+h	java:S106"9Replace this use of System.out or System.err by a logger.(Ôäº€úÿÿÿÿHARMAJORZ
+CODE_SMELL
+c	java:S106%"9Replace this use of System.out or System.err by a logger.(ÀãÙŠHBRMAJORZ
+CODE_SMELL
+h	java:S106&"9Replace this use of System.out or System.err by a logger.(‰Õ±§øÿÿÿÿHCRMAJORZ
+CODE_SMELL
+h	java:S106'"9Replace this use of System.out or System.err by a logger.(‚‡ÚßûÿÿÿÿHDRMAJORZ
+CODE_SMELL
+c	java:S106("9Replace this use of System.out or System.err by a logger.(¥òşªHERMAJORZ
+CODE_SMELL
+h	java:S106)"9Replace this use of System.out or System.err by a logger.(„Œ©àüÿÿÿÿHFRMAJORZ
+CODE_SMELL
+c	java:S106*"9Replace this use of System.out or System.err by a logger.(È·ÜÎHGRMAJORZ
+CODE_SMELL
+h	java:S1060"9Replace this use of System.out or System.err by a logger.(şí°­üÿÿÿÿHHRMAJORZ
+CODE_SMELL
+c	java:S1061"9Replace this use of System.out or System.err by a logger.(­¨íŠHIRMAJORZ
+CODE_SMELL
+c	java:S1062"9Replace this use of System.out or System.err by a logger.(Ùç¢HJRMAJORZ
+CODE_SMELL

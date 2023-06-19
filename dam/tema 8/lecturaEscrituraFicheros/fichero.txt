@@ -1,0 +1,3 @@
+Iron Man;humano;rojo
+hulk;humano;verde
+spider man;araña;azul

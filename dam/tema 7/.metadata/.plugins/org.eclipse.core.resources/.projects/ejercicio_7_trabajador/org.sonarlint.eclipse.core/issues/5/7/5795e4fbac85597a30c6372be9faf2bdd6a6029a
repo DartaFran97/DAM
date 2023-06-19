@@ -1,0 +1,11 @@
+
+…	java:S116"NRename this field "NSS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ®ş´ùÿÿÿÿ8ºóæ0H®RMINORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¢®ú¬ùÿÿÿÿH­RMINORZ
+CODE_SMELL
+^
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8ô€Ş‚ç0H½RMINORZ
+CODE_SMELL
+q
+java:S5993"9Change the visibility of this constructor to "protected".(Ò­·İúÿÿÿÿ8àªÊƒç0HØRMAJORZ
+CODE_SMELL

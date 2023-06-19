@@ -1,0 +1,25 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(¶ïÏµ8í˜ÌÎè0H÷RMAJORZ
+CODE_SMELL
+n
+java:S1854"6Remove this useless assignment to local variable "sc".(ğÛ²¸øÿÿÿÿ8Ô®¼Îè0HÿRMAJORZ
+CODE_SMELL
+k	java:S106%"9Replace this use of System.out or System.err by a logger.(Èú£Ì8Ô®¼Îè0HøRMAJORZ
+CODE_SMELL
+b
+java:S3740"/Provide the parametrized type for this generic.(ìåˆ¡8Ô®¼Îè0HùRMAJORZ
+CODE_SMELL
+n
+java:S1854";Remove this useless assignment to local variable "integer".(ßöÖ8Ô®¼Îè0HüRMAJORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Üó­H€RMINORZ
+CODE_SMELL
+Œ
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ûùŒ8’ÌúÍè0HúRMINORZ
+CODE_SMELL
+_
+java:S1481",Remove this unused "integer" local variable.(ßöÖ8Ô®¼Îè0HıRMINORZ
+CODE_SMELL
+_
+java:S1481"'Remove this unused "sc" local variable.(ğÛ²¸øÿÿÿÿ8Ô®¼Îè0HRMINORZ
+CODE_SMELL

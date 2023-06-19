@@ -1,0 +1,22 @@
+//evaluable3
+import java.util.Scanner;
+
+public class MyClass {
+    public static void main(String args[]) {
+    
+    Scanner teclado = new Scanner(System.in);
+    
+    System.out.println("introduzca el numero de bocadillos consumidos: ");
+    double itemA  = teclado.nextDouble();
+    
+    System.out.println("introduzca el numero de refrescos consumidos: ");
+    double itemB = teclado.nextDouble();
+    
+    System.out.println("introduzca el numero de cervezas consumidas: ");
+    double itemC = teclado.nextDouble();
+    
+    double cuenta = (itemA * 1.5) + (itemB * 1.05) + (itemC * 0.75);
+    
+    System.out.println("total cuenta: " + cuenta + "€");
+    }
+}

@@ -1,0 +1,52 @@
+
+‚
+java:S1192"GDefine a constant instead of duplicating this literal "tijera" 5 times.(­¹ˆ®øÿÿÿÿ8Èÿ—âê0H¤RCRITICALZ
+CODE_SMELL
+p	java:S1062"9Replace this use of System.out or System.err by a logger.(ÔÊ¶–ùÿÿÿÿ8Èÿ—âê0H¶RMAJORZ
+CODE_SMELL
+p	java:S106A"9Replace this use of System.out or System.err by a logger.(ÔÊ¶–ùÿÿÿÿ8ºÈÖáê0H¸RMAJORZ
+CODE_SMELL
+p	java:S106*"9Replace this use of System.out or System.err by a logger.(Üå¶µşÿÿÿÿ8Èÿ—âê0HšRMAJORZ
+CODE_SMELL
+k	java:S106="9Replace this use of System.out or System.err by a logger.(¸Æ×¦8Ü¯’ãê0H¹RMAJORZ
+CODE_SMELL
+p	java:S1069"9Replace this use of System.out or System.err by a logger.(Üå¶µşÿÿÿÿ8Èÿ—âê0H‚RMAJORZ
+CODE_SMELL
+
+java:S1192"FDefine a constant instead of duplicating this literal "papel" 5 times.(­¹ˆ®øÿÿÿÿ8Èÿ—âê0HœRCRITICALZ
+CODE_SMELL
+‚
+java:S1192"GDefine a constant instead of duplicating this literal "piedra" 5 times.(­¹ˆ®øÿÿÿÿ8Èÿ—âê0H«RCRITICALZ
+CODE_SMELL
+‡
+java:S1192"LDefine a constant instead of duplicating this literal "has perdido" 3 times.(Üå¶µşÿÿÿÿ8Èÿ—âê0H²RCRITICALZ
+CODE_SMELL
+p	java:S106H"9Replace this use of System.out or System.err by a logger.(ûşç¹üÿÿÿÿ8°È¸âê0H›RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(âüãê8ºÈÖáê0H·RMAJORZ
+CODE_SMELL
+k	java:S106 "9Replace this use of System.out or System.err by a logger.(¸Æ×¦8Èÿ—âê0HªRMAJORZ
+CODE_SMELL
+‚
+java:S1192$"GDefine a constant instead of duplicating this literal "empate" 3 times.(ÔÊ¶–ùÿÿÿÿ8Ü¯’ãê0HûRCRITICALZ
+CODE_SMELL
+‰
+java:S1192 "SDefine a constant instead of duplicating this literal "has ganado 1 punto" 3 times.(¸Æ×¦8Èÿ—âê0H•RCRITICALZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(–›úÄşÿÿÿÿ8ºÈÖáê0HRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Üå¶µşÿÿÿÿ8Ü¯’ãê0HÿRMAJORZ
+CODE_SMELL
+„	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ïáH¢RMINORZ
+CODE_SMELL
+p	java:S106K"9Replace this use of System.out or System.err by a logger.(‚ÁÍğøÿÿÿÿ8Èÿ—âê0H€RMAJORZ
+CODE_SMELL
+ˆ
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 51 to the 15 allowed.(Çµí‘8Èÿ—âê0HƒRCRITICALZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(›ÁÁšøÿÿÿÿ8Èÿ—âê0H™RMAJORZ
+CODE_SMELL
+k	java:S106."9Replace this use of System.out or System.err by a logger.(¸Æ×¦8Èÿ—âê0H£RMAJORZ
+CODE_SMELL
+p	java:S106$"9Replace this use of System.out or System.err by a logger.(ÔÊ¶–ùÿÿÿÿ8Èÿ—âê0H±RMAJORZ
+CODE_SMELL

@@ -1,0 +1,39 @@
+
+‚
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(φΪ¥ωÿÿÿÿ8νύ–σ0HΰRBLOCKERZBUG
+Ό
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(―Έώÿÿÿÿ8νύ–σ0HαRCRITICALZ
+CODE_SMELL
+]
+java:S2695@"/This "PreparedStatement" only has 2 parameters.(Ύ»θ‡8νύ–σ0HγRBLOCKERZBUG
+{
+java:S20953"HUse try-with-resources or close this "Connection" in a "finally" clause.(ƒήΥνώÿÿÿÿ8νύ–σ0HδRBLOCKERZBUG
+ƒ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ψ™·Ύ8νύ–σ0HεRMINORZ
+CODE_SMELL
+£
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(‰Φ™‚8νύ–σ0HζRMINORZ
+CODE_SMELL
+Z
+java:S1481:"'Remove this unused "rs" local variable.(·¦Γ…8νύ–σ0HιRMINORZ
+CODE_SMELL
+	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†ΧΠίψÿÿÿÿHλRMINORZ
+CODE_SMELL
+|
+java:S2095<"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ΠχΕe8νύ–σ0HμRBLOCKERZBUG
+x	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ΚςΒ—HνRMINORZ
+CODE_SMELL
+
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ψ™·Ύ8νύ–σ0HξRMINORZ
+CODE_SMELL
+s
+java:S64373"6Revoke and change this password, as it is compromised.(ƒήΥνώÿÿÿÿ8νύ–σ0HπRBLOCKERZVULNERABILITY
+‚
+java:S20957"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(φΪ¥ωÿÿÿÿ8νύ–σ0HρRBLOCKERZBUG
+{
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(ƒήΥνώÿÿÿÿ8νύ–σ0HςRBLOCKERZBUG
+s
+java:S6437"6Revoke and change this password, as it is compromised.(ƒήΥνώÿÿÿÿ8νύ–σ0HσRBLOCKERZVULNERABILITY
+i
+java:S1854:"6Remove this useless assignment to local variable "rs".(·¦Γ…8νύ–σ0HτRMAJORZ
+CODE_SMELL

@@ -1,0 +1,31 @@
+
+l
+java:S1172 "9Remove this unused method parameter "precioTotalCarrito".(ÿêËÜ8¢‘î½é0H÷	RMAJORZ
+CODE_SMELL
+€	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıÖæİ8¢‘î½é0Hù	RMINORZ
+CODE_SMELL
+‹
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(ş¦N8¢‘î½é0Hú	RMINORZ
+CODE_SMELL
+X
+java:S1481
+"&Remove this unused "p" local variable.(ş¦N8¢‘î½é0Hü	RMINORZ
+CODE_SMELL
+t
+java:S1117"<Rename "productos" which hides the field declared at line 7.(é‘†ÿÿÿÿÿ8¢‘î½é0Hş	RMAJORZ
+CODE_SMELL
+h
+java:S1172	"0Remove this unused method parameter "productos".(å®²€ùÿÿÿÿ8¢‘î½é0Hÿ	RMAJORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ø¸‘±ÿÿÿÿÿH
+RMINORZ
+CODE_SMELL
+Z
+java:S1125"'Remove the unnecessary boolean literal.(¿Ş¯œ8¢‘î½é0H‚
+RMINORZ
+CODE_SMELL
+¡
+java:S1319	"iThe type of "productos" should be an interface such as "List" rather than the implementation "ArrayList".(å®²€ùÿÿÿÿ8¢‘î½é0H„
+RMINORZ
+CODE_SMELL

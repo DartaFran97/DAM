@@ -1,0 +1,60 @@
+
+`
+java:S1481I"-Remove this unused "tematica" local variable.(í„–¦8¢Á²ˆë0H	RMINORZ
+CODE_SMELL
+k	java:S106J"9Replace this use of System.out or System.err by a logger.(§½ù±8©¯Òòê0H	RMAJORZ
+CODE_SMELL
+Y
+java:S11256"'Remove the unnecessary boolean literal.(ûÚs8©¯Òòê0H‘	RMINORZ
+CODE_SMELL
+p	java:S106T"9Replace this use of System.out or System.err by a logger.(ÌŠŞòşÿÿÿÿ8¢Á²ˆë0H“	RMAJORZ
+CODE_SMELL
+k	java:S106C"9Replace this use of System.out or System.err by a logger.(’Öğ8¢Á²ˆë0H”	RMAJORZ
+CODE_SMELL
+k	java:S106%"9Replace this use of System.out or System.err by a logger.(ƒë¡¶8Ì­âñê0H•	RMAJORZ
+CODE_SMELL
+p	java:S106P"9Replace this use of System.out or System.err by a logger.(ÂßŒûøÿÿÿÿ8©¯Òòê0H–	RMAJORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŠøÑ²H—	RMINORZ
+CODE_SMELL
+p	java:S106&"9Replace this use of System.out or System.err by a logger.(öš¯µøÿÿÿÿ8Ì­âñê0H˜	RMAJORZ
+CODE_SMELL
+p	java:S106>"9Replace this use of System.out or System.err by a logger.(Üüÿÿÿÿ8¢Á²ˆë0H™	RMAJORZ
+CODE_SMELL
+o
+java:S1854I"<Remove this useless assignment to local variable "tematica".(í„–¦8¢Á²ˆë0Hš	RMAJORZ
+CODE_SMELL
+p	java:S106)"9Replace this use of System.out or System.err by a logger.(òÏÒÙùÿÿÿÿ8Ì­âñê0H›	RMAJORZ
+CODE_SMELL
+p	java:S106A"9Replace this use of System.out or System.err by a logger.(¡Äğûÿÿÿÿ8¢Á²ˆë0Hœ	RMAJORZ
+CODE_SMELL
+j
+java:S1172`"2Remove this unused method parameter "arrayLibros".(˜ˆÓéøÿÿÿÿ8©¯Òòê0H	RMAJORZ
+CODE_SMELL
+k	java:S106r"9Replace this use of System.out or System.err by a logger.(¦¬êú8ñ±×ˆë0HŸ	RMAJORZ
+CODE_SMELL
+p	java:S1067"9Replace this use of System.out or System.err by a logger.(¡Äğûÿÿÿÿ8Ì­âñê0H 	RMAJORZ
+CODE_SMELL
+k	java:S106["9Replace this use of System.out or System.err by a logger.(¦¬êú8©¯Òòê0H¡	RMAJORZ
+CODE_SMELL
+_
+java:S1125@"'Remove the unnecessary boolean literal.(¿ë®³üÿÿÿÿ8¢Á²ˆë0H¢	RMINORZ
+CODE_SMELL
+k	java:S1064"9Replace this use of System.out or System.err by a logger.(ç¶Â8Ì­âñê0H¥	RMAJORZ
+CODE_SMELL
+p	java:S106'"9Replace this use of System.out or System.err by a logger.(ççŞäùÿÿÿÿ8Ì­âñê0H¦	RMAJORZ
+CODE_SMELL
+k	java:S106("9Replace this use of System.out or System.err by a logger.(¦£ğÕ8Ì­âñê0H§	RMAJORZ
+CODE_SMELL
+]
+java:S1481K"*Remove this unused "autor" local variable.(­Ëƒ8¢Á²ˆë0H¨	RMINORZ
+CODE_SMELL
+p	java:S1069"9Replace this use of System.out or System.err by a logger.(Úåäúÿÿÿÿ8Ì­âñê0H©	RMAJORZ
+CODE_SMELL
+p	java:S106$"9Replace this use of System.out or System.err by a logger.(òç„İúÿÿÿÿ8Ì­âñê0Hª	RMAJORZ
+CODE_SMELL
+l
+java:S1854K"9Remove this useless assignment to local variable "autor".(­Ëƒ8¢Á²ˆë0H«	RMAJORZ
+CODE_SMELL
+p	java:S106H"9Replace this use of System.out or System.err by a logger.(å¸»¦ıÿÿÿÿ8¢Á²ˆë0H¬	RMAJORZ
+CODE_SMELL

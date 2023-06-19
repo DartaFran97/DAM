@@ -1,0 +1,8 @@
+
+…	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ’âÀûÿÿÿÿ8òøÛøä0HÛRMINORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŸÙšüÿÿÿÿHÜRMINORZ
+CODE_SMELL
+”
+java:S1488"aImmediately return this expression instead of assigning it to the temporary variable "perimetro".(¡‘ÍÇ8òøÛøä0HİRMINORZ
+CODE_SMELL

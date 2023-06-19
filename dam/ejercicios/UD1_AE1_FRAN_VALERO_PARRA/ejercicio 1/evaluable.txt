@@ -1,0 +1,39 @@
+//evaluable1
+import java.util.Scanner;
+
+public class MyClass {
+    public static void main(String args[]) {
+    Scanner teclado = new Scanner(System.in);
+    
+    System.out.println("introduzca su nombre:");
+    String name = teclado.nextLine() ;
+    
+    System.out.println("introduzca sus apellidos:");
+    String apellidos = teclado.nextLine() ;
+    
+    System.out.println("introduzca su fecha de nacimiento: ");
+    String fecha = teclado.nextLine();
+    
+    System.out.println("introduzca su edad: ");
+    int años = teclado.nextInt();
+ 
+    System.out.println("introduzca su sueldo bruto al año: ");
+    double money = teclado.nextInt() ;
+    
+    double money1 = (money * 0.05) + money;
+    double money2 = (money1 * 0.05) + money1;
+    double money3 = (money2 * 0.05) + money2;
+    double money4 = (money3 * 0.05) + money3;
+    double money5 = (money4 * 0.05) + money4;
+    double money6 = (money5 * 0.05) + money5;
+    double money7 = (money6 * 0.05) + money6;
+    double money8 = (money7 * 0.05) + money7;
+    double money9 = (money8 * 0.05) + money8;
+    double money10 = (money9 * 0.05) + money9;
+  
+   
+    System.out.println("nombre: " + name + " " + apellidos);
+    System.out.println("edad:" + años + " nacido el: " + fecha);
+    System.out.println("sueldo en 10 años: " + money10);  
+    }
+}

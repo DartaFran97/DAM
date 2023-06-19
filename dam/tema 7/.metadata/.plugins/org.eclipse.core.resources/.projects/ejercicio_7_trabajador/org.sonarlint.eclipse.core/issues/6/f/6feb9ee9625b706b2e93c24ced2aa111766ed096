@@ -1,0 +1,17 @@
+
+w
+java:S6201"EReplace this instanceof check and cast with 'instanceof Consultor c1'(ò8Şİ¾ƒç0HÌRMINORZ
+CODE_SMELL
+|
+java:S6201"DReplace this instanceof check and cast with 'instanceof Empleado e1'(¹Ÿ¸Îüÿÿÿÿ8Şİ¾ƒç0HÉRMINORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¢®ú¬ùÿÿÿÿHšRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(äıÅŸıÿÿÿÿ8Şİ¾ƒç0HÎRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(¢Õ¢ú8Şİ¾ƒç0HËRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(—Æ8âìƒç0HáRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(äÑéôÿÿÿÿÿ8âìƒç0HâRMAJORZ
+CODE_SMELL

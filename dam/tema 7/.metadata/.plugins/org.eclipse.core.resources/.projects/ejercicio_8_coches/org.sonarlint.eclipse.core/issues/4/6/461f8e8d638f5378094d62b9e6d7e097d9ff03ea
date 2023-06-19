@@ -1,0 +1,22 @@
+
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ט¶ךH¥RMINORZ
+CODE_SMELL
+n
+java:S1854	"6Remove this useless assignment to local variable "sc".(נÛ²¸רÿÿÿÿ8שה¦™כ0H¹RMAJORZ
+CODE_SMELL
+_
+java:S1481	"'Remove this unused "sc" local variable.(נÛ²¸רÿÿÿÿ8שה¦™כ0H÷RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(־¼ƒ¥רÿÿÿÿ8שה¦™כ0H¼RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(־¼ƒ¥רÿÿÿÿ8שה¦™כ0H½RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(־¼ƒ¥רÿÿÿÿ8שה¦™כ0H¾RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(־¼ƒ¥רÿÿÿÿ8שה¦™כ0H¿RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(־¼ƒ¥רÿÿÿÿ8שה¦™כ0HְRMAJORZ
+CODE_SMELL
+c
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(ק‰מƒ8שה¦™כ0HֱRMINORZ
+CODE_SMELL

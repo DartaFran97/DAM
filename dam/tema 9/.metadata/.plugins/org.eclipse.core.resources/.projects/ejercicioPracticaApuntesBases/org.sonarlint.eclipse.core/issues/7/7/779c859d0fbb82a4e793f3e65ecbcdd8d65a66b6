@@ -1,0 +1,53 @@
+
+…	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹±ÆĞüÿÿÿÿ8ò¶À¹ò0HÄRMINORZ
+CODE_SMELL
+{
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(ƒŞÕíşÿÿÿÿ8ò¶À¹ò0HÅRBLOCKERZBUG
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ğƒğ›ÿÿÿÿÿ8ò¶À¹ò0HÆRMAJORZ
+CODE_SMELL
+a
+java:S1481")Remove this unused "conn" local variable.(ƒŞÕíşÿÿÿÿ8ò¶À¹ò0HÇRMINORZ
+CODE_SMELL
+c
+java:S1172"+Remove this unused method parameter "args".(¹±ÆĞüÿÿÿÿ8ò¶À¹ò0HÉRMAJORZ
+CODE_SMELL
+m
+java:S1118
+":Add a private constructor to hide the implicit public one.(àªÅö8ò¶À¹ò0HËRMAJORZ
+CODE_SMELL
+a
+java:S1128"/Remove this unused import 'java.sql.ResultSet'.(ˆóÚw8“ˆ´ó0HÌRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(å©·Ÿÿÿÿÿÿ8ò¶À¹ò0HÎRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(šöıŞ8ò¶À¹ò0HÏRMAJORZ
+CODE_SMELL
+k	java:S106;"9Replace this use of System.out or System.err by a logger.(Æ—Ç8¬Á•ó0HĞRMAJORZ
+CODE_SMELL
+k	java:S106!"9Replace this use of System.out or System.err by a logger.(ç®×§8ò¶À¹ò0HÑRMAJORZ
+CODE_SMELL
+k	java:S106)"9Replace this use of System.out or System.err by a logger.(ãÂˆò8ò¶À¹ò0HÒRMAJORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†×ĞßøÿÿÿÿHÓRMINORZ
+CODE_SMELL
+p	java:S1068"9Replace this use of System.out or System.err by a logger.(ÂßŒûøÿÿÿÿ8ò¶À¹ò0HÔRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¥‹’èıÿÿÿÿ8ò¶À¹ò0HÕRMAJORZ
+CODE_SMELL
+p	java:S1061"9Replace this use of System.out or System.err by a logger.(¨ô¢¨ıÿÿÿÿ8ò¶À¹ò0HÖRMAJORZ
+CODE_SMELL
+p
+java:S1854"8Remove this useless assignment to local variable "conn".(ƒŞÕíşÿÿÿÿ8ò¶À¹ò0H×RMAJORZ
+CODE_SMELL
+„
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(¹±ÆĞüÿÿÿÿ8ò¶À¹ò0HØRMAJORZ
+CODE_SMELL
+o
+java:S1128"7Remove this unused import 'java.sql.PreparedStatement'.(òÄ™ƒÿÿÿÿÿ8“ˆ´ó0HÙRMINORZ
+CODE_SMELL
+s
+java:S6437"6Revoke and change this password, as it is compromised.(ƒŞÕíşÿÿÿÿ8ò¶À¹ò0HÛRBLOCKERZVULNERABILITY
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¶ú™–üÿÿÿÿ8ò¶À¹ò0HÜRMAJORZ
+CODE_SMELL
+j	java:S106'"9Replace this use of System.out or System.err by a logger.(ÔÜ±8ò¶À¹ò0HİRMAJORZ
+CODE_SMELL

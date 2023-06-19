@@ -1,0 +1,7 @@
+
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ט¶ךHˆRMINORZ
+CODE_SMELL
+ˆ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(לצ׀רÿÿÿÿ8ûה¦™כ0HֳRMINORZ
+CODE_SMELL
+x	java:S107"AConstructor has 8 parameters, which is greater than 7 authorized.(לצ׀רÿÿÿÿ8ûה¦™כ0HִRMAJORZ
+CODE_SMELL

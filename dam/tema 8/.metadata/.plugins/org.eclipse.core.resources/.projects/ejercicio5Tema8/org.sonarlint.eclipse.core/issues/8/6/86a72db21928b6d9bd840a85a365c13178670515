@@ -1,0 +1,20 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ÙËìä8õ£»”é0HéRMAJORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¢¯‹‡úÿÿÿÿHêRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Œ»ü‘üÿÿÿÿ8ç¸¶“é0HëRMAJORZ
+CODE_SMELL
+`
+java:S1199"-Extract this nested code block into a method.(ñé—Ê8ýŽµ”é0HìRMINORZ
+CODE_SMELL
+›
+java:S1319"hThe type of "combustible" should be an interface such as "Map" rather than the implementation "HashMap".(ñé—Ê8ç¸¶“é0HíRMINORZ
+CODE_SMELL
+€	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñé—Ê8ç¸¶“é0HðRMINORZ
+CODE_SMELL
+Œ
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ûê¯Ý8õ£»”é0HñRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(‹ƒÈÜúÿÿÿÿ8ç¸¶“é0HóRMAJORZ
+CODE_SMELL

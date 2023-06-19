@@ -1,0 +1,36 @@
+
+p	java:S106#"9Replace this use of System.out or System.err by a logger.(˜µ®Šüÿÿÿÿ8¡¿¦å0H›RMAJORZ
+CODE_SMELL
+m
+java:S1854"5Remove this useless assignment to local variable "t".(ı€˜Öşÿÿÿÿ8¡¿¦å0HœRMAJORZ
+CODE_SMELL
+p	java:S106$"9Replace this use of System.out or System.err by a logger.(©…ª÷ÿÿÿÿÿ8¡¿¦å0HRMAJORZ
+CODE_SMELL
+p	java:S106%"9Replace this use of System.out or System.err by a logger.(Ÿûï¡üÿÿÿÿ8¡¿¦å0HRMAJORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ùŠ¿«ıÿÿÿÿHŸRMINORZ
+CODE_SMELL
+^
+java:S1481"&Remove this unused "l" local variable.(áÏÕúüÿÿÿÿ8¡¿¦å0H RMINORZ
+CODE_SMELL
+v
+java:S6201"CReplace this instanceof check and cast with 'instanceof Lavadora l'(şÈ‹À8¡¿¦å0H¢RMINORZ
+CODE_SMELL
+n
+java:S1854"6Remove this useless assignment to local variable "sc".(ğÛ²¸øÿÿÿÿ8õŒ¦å0H¤RMAJORZ
+CODE_SMELL
+m
+java:S1854"5Remove this useless assignment to local variable "l".(áÏÕúüÿÿÿÿ8¡¿¦å0H¥RMAJORZ
+CODE_SMELL
+|
+java:S6201"DReplace this instanceof check and cast with 'instanceof Televisor t'(†âæÑıÿÿÿÿ8¡¿¦å0H¦RMINORZ
+CODE_SMELL
+ˆ	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ–œóùÿÿÿÿ8°©¦å0H¨RMINORZ
+CODE_SMELL
+_
+java:S1481"'Remove this unused "sc" local variable.(ğÛ²¸øÿÿÿÿ8õŒ¦å0H©RMINORZ
+CODE_SMELL
+^
+java:S1481"&Remove this unused "t" local variable.(ı€˜Öşÿÿÿÿ8¡¿¦å0H«RMINORZ
+CODE_SMELL

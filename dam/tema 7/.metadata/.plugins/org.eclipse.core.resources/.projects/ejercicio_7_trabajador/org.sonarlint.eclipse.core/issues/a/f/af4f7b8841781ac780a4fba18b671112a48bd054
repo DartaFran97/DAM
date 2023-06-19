@@ -1,0 +1,8 @@
+
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¢®ú¬ùÿÿÿÿH–RMINORZ
+CODE_SMELL
+y
+java:S2184'"HCast one of the operands of this multiplication operation to a "double".(ö¡ï§ûÿÿÿÿ8’¥íõæ0H—RMINORZBUG
+^
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8ÝÝ¾ƒç0HÄRMINORZ
+CODE_SMELL

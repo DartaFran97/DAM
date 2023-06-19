@@ -1,0 +1,24 @@
+
+p	java:S106#"9Replace this use of System.out or System.err by a logger.(—–Òüÿÿÿÿ8ÃìëÅç0HõRMAJORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤ÁÛøøÿÿÿÿHöRMINORZ
+CODE_SMELL
+p	java:S106%"9Replace this use of System.out or System.err by a logger.(ÙûûÖıÿÿÿÿ8ÃìëÅç0H÷RMAJORZ
+CODE_SMELL
+k	java:S106&"9Replace this use of System.out or System.err by a logger.(ÆÔï8ÃìëÅç0HøRMAJORZ
+CODE_SMELL
+p	java:S106""9Replace this use of System.out or System.err by a logger.(×¶âìüÿÿÿÿ8ÃìëÅç0HùRMAJORZ
+CODE_SMELL
+p	java:S106$"9Replace this use of System.out or System.err by a logger.(Áçˆııÿÿÿÿ8ÃìëÅç0HúRMAJORZ
+CODE_SMELL
+x	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·š†‡HûRMINORZ
+CODE_SMELL
+Œ
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ïêº8Ş™Åç0HüRMINORZ
+CODE_SMELL
+x
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(Çµí‘HşRMAJORZ
+CODE_SMELL
+e
+java:S1481"-Remove this unused "contador" local variable.(¸¼¾ÿøÿÿÿÿ8ÃìëÅç0HÿRMINORZ
+CODE_SMELL

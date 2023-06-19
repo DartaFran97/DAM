@@ -1,0 +1,9 @@
+
+„
+java:S1104"QMake carga a static final constant or non-public and provide accessors if needed.(¤ôÃ°8ä¹¥å0HÿRMINORZ
+CODE_SMELL
+
+java:S1104"XMake cargaDefecto a static final constant or non-public and provide accessors if needed.(­½©çüÿÿÿÿ8ä¹¥å0H€RMINORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ùŠ¿«ıÿÿÿÿHRMINORZ
+CODE_SMELL

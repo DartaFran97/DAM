@@ -1,0 +1,356 @@
+//ejrcicio 1 y 2 
+import java.util.Scanner;
+
+public class MyClass {
+    public static void main(String args[]) {
+   Scanner teclado = new Scanner(System.in);
+   System.out.println("introduzca su edad");
+   int edad;
+   edad = teclado.nextInt();
+   
+   if (edad >= 18) { 
+       System.out.println("eres mayor de edad"); 
+       
+   }
+   else {
+       System.out.println("eres menor de edad");
+   }
+}
+    
+}
+
+//ejercicio 3
+import java.util.Scanner;
+
+public class MyClass {
+    public static void main(String args[]) {
+   Scanner teclado = new Scanner(System.in);
+   System.out.println("introduzca el número");
+   int n1 = teclado.nextInt();
+   
+   if (n1 >= 0) {
+  System.out.println ("el numero es positivo");
+   }
+   else {
+   System.out.println ("el numero es negativo");
+  }
+}
+}
+ 
+//ejercico 4 
+import java.util.Scanner;
+
+public class MyClass {
+    public static void main(String args[]) {
+   Scanner teclado = new Scanner(System.in);
+   System.out.println("introduzca el número");
+   int n1 = teclado.nextInt();
+   System.out.println("introduzca el número");
+   int n2 = teclado.nextInt();
+   
+   if (n1 > n2) {
+   
+   System.out.println ("el numero mayor es: " + n1);
+   }
+
+   if (n1 < n2) {
+         System.out.println ("el numero mayor es: " + n2);
+   }
+  
+   if (n1 == n2 ) {
+       
+   System.out.println ("el resto de ambois numeros es: " + (n1 % n2) );
+   }
+  
+ 
+}
+}
+//ejercicio5
+import java.util.Scanner;
+public class MyClass {
+    public static void main(String args[]) {
+ Scanner teclado = new Scanner(System.in);
+ 
+ System.out.println("introduzca su peso en Kg: ");
+ double peso = teclado.nextDouble();
+ 
+  System.out.println("introduzca su altura en metros: ");
+ double altura = teclado.nextDouble();
+ 
+ double imc= peso / (altura * altura);
+ 
+ System.out.println("su IMC es de: " + imc);
+    }
+}
+
+//ejercicio 6
+package ejercicios_Prog;
+
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Scanner teclado = new Scanner (System.in);
+		
+		System.out.println("introduzca el primer numero: ");
+		int n1 = teclado.nextInt();
+		
+		System.out.println("introduzca el segundo numero: ");
+		int n2 = teclado.nextInt();
+		
+		System.out.println("introduzca el tercer numero: ");
+		int n3 = teclado.nextInt();
+		
+		
+		if (n1 > n2) {
+			if (n2 > n3) {
+				System.out.println("el mayor es: " + n1);
+			}
+	    }
+		if (n2 > n1) {
+				if(n1 > n3) {
+					System.out.println("el mayor es: " + n2);
+				}
+		}	
+		if (n1 < n3) {
+			if(n3 > n2) {
+				System.out.println("el mayor es: " + n3);
+			}
+		}
+
+  }
+}
+
+// ejercicio 7
+package ejercicios_Prog;
+
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Scanner teclado = new Scanner (System.in);
+		
+		System.out.println("introduzca el primer numero: ");
+		int n1 = teclado.nextInt();
+		
+		System.out.println("introduzca el segundo numero: ");
+		int n2 = teclado.nextInt();
+		
+		if(n1 >= 0) {
+		System.out.println(n1 + "es positivo");
+		}
+		else {
+			System.out.println(n1 + "es negativo");
+		}
+		
+		if(n2 >= 0) {
+		System.out.println(n2 + "es positivo");
+		}
+		else {
+			System.out.println(n2 + "es negativo");
+		
+		}
+		
+  }
+}
+
+//ejercicio 8
+package ejercicios_Prog;
+
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Scanner teclado = new Scanner (System.in);
+		
+		System.out.println("introduzca el primer numero: ");
+		int n1 = teclado.nextInt();
+		
+		System.out.println("introduzca el segundo numero: ");
+		int n2 = teclado.nextInt();
+		
+		System.out.println("introduzca el tercer numero: ");
+		int n3 = teclado.nextInt();
+		
+		if (n1 > n2) {
+			if (n1 > n3) {
+				if(n2 > n3) {
+				System.out.println(n1 + "" + n2 + "" + n3);
+			    }else {
+			    	System.out.println(n1 + "" + n3 + "" + n2);
+			     }
+			    }
+			}
+	    
+		
+		if (n2 > n1) {
+				if(n2 > n3) {
+					if(n1 > n3) {
+					System.out.println(n2 + "" + n1 + "" + n3);
+					}else {
+				    	System.out.println(n2 + "" + n3 + "" + n1);
+				     }
+			    }
+		}
+		
+		if (n1 < n3) {
+			if(n3 > n2) {
+				System.out.println(n3 + "" + n2 + "" + n1);
+				
+			}else {
+		    	System.out.println(n3 + "" + n1 + "" + n2);
+		     }
+		}
+  }
+}
+
+//ejercicio 9
+package ejercicios_Prog;
+
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Scanner teclado = new Scanner (System.in);
+		
+		System.out.println("introduzca el primer cateto: ");
+		double n1 = teclado.nextDouble();
+		
+		System.out.println("introduzca el segundo cateto: ");
+		double n2 = teclado.nextDouble();
+		
+		System.out.println("introduzca el tercer cateto: ");
+		double n3 = teclado.nextDouble();
+		
+		double max = 0; 
+		double med = 0;
+		double min = 0;
+		
+		
+		if (n1 > n2) {
+			if (n1 > n3) {
+				if(n2 > n3) {
+					max = n1;
+				    med = n2;
+					min = n3;
+							
+			    }else {
+			    	max = n1;
+					med = n3;
+					min = n2;
+			     }
+			    }
+			}
+	    
+		
+		if (n2 > n1) {
+				if(n2 > n3) {
+					if(n1 > n3) {
+						max = n2;
+						med = n1;
+						min = n3;
+					}else {
+						max = n2;
+						med = n3;
+						min = n1;
+				     }
+			    }
+		}
+		
+		if (n1 < n3) {
+			if(n3 > n2) {
+				max = n3;
+			    med = n2;
+				min = n1;
+				
+			}else {
+				max = n3;
+	            med = n1;
+				min = n2;
+		     }
+		}
+		 
+		 if((med + min)> max) {
+			 System.out.println("es un triangulo"); 
+			 if (max == med && med == min){
+				 System.out.println("Equilatero"); 
+			 }else {
+				 if(max > med && med == min) {
+					 System.out.println("Isosceles");
+				 }else {
+					 if (max > med && med > min) {
+						 System.out.println("escaleno");
+					 }
+				 }
+			 }
+	    }else {
+		System.out.println("no es un triangulo"); 
+		
+	}
+		 
+}
+}
+
+// evaluable 3
+package ejercicio3;
+
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Scanner teclado = new Scanner(System.in);
+		
+	System.out.println("introduzca la duración de su llamada (min)");
+	double duracion = teclado.nextDouble();
+	
+	System.out.println("introduzca la hora a la que realizo su llamada (24h)");
+	double hora = teclado.nextDouble();
+	teclado.nextLine();
+	
+	System.out.println("introduzca el día de la semana en que se realizo la llamada:");
+	String dia = teclado.nextLine();
+	
+	if (duracion < 5) {
+		double preciollamada = 1;
+		
+	}else {
+		if (duracion > 5 && duracion < 8) {
+			 double preciollamada = 1 + 0.8; 
+		}else {
+			if (duracion > 8 && duracion < 10) {
+			double preciollamada = 1 + 0.8 + 0.7;
+			}else {
+				if(duracion > 10){
+					double preciollamada = 1 + 0.8 + 0.7 + 0.5;
+					
+			
+				
+	if (dia.equals("domingo")) {
+	double preciofinal1 = preciollamada * 0.03;
+	System.out.println("el precio de la llamada es de:" + preciofinal1 + "€");
+		
+				
+				}else {
+					if (hora > 12) {
+						double preciofinal2 = preciollamada * 0.1;
+						System.out.println("el precio de la llamada es de:" + preciofinal2 + "€");
+						
+					}else {
+						double preciofinal3 = preciollamada * 0.15;
+						System.out.println("el precio de la llamada es de:" + preciofinal3+ "€");
+					}
+				}
+			}
+		}
+	}
+	
+
+	}
+	}
+}
+

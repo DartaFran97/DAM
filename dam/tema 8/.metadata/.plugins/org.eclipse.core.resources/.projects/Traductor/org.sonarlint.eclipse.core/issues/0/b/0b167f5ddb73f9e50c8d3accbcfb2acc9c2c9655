@@ -1,0 +1,25 @@
+
+k	java:S106/"9Replace this use of System.out or System.err by a logger.(Ö×Çù8½Õ„ğğ0HİRMAJORZ
+CODE_SMELL
+k	java:S1066"9Replace this use of System.out or System.err by a logger.(¼è‘É8½Õ„ğğ0HŞRMAJORZ
+CODE_SMELL
+p	java:S106("9Replace this use of System.out or System.err by a logger.(ó¤–úÿÿÿÿ8½Õ„ğğ0HßRMAJORZ
+CODE_SMELL
+p	java:S106'"9Replace this use of System.out or System.err by a logger.(ÇÜÏºüÿÿÿÿ8½Õ„ğğ0HàRMAJORZ
+CODE_SMELL
+k	java:S1061"9Replace this use of System.out or System.err by a logger.(È”İŞ8½Õ„ğğ0HáRMAJORZ
+CODE_SMELL
+k	java:S1064"9Replace this use of System.out or System.err by a logger.(ç‹ Ã8½Õ„ğğ0HâRMAJORZ
+CODE_SMELL
+k	java:S106C"9Replace this use of System.out or System.err by a logger.(Æ—Ç8½Õ„ğğ0HãRMAJORZ
+CODE_SMELL
+k	java:S106&"9Replace this use of System.out or System.err by a logger.(•ø†Ò8½Õ„ğğ0HäRMAJORZ
+CODE_SMELL
+k	java:S106:"9Replace this use of System.out or System.err by a logger.(ŸÊªõ8½Õ„ğğ0HåRMAJORZ
+CODE_SMELL
+p	java:S106@"9Replace this use of System.out or System.err by a logger.(ÂßŒûøÿÿÿÿ8½Õ„ğğ0HæRMAJORZ
+CODE_SMELL
+p	java:S106)"9Replace this use of System.out or System.err by a logger.(Ğƒğ›ÿÿÿÿÿ8½Õ„ğğ0HçRMAJORZ
+CODE_SMELL
+ƒ	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İÆş¼8½Õ„ğğ0HèRMINORZ
+CODE_SMELL

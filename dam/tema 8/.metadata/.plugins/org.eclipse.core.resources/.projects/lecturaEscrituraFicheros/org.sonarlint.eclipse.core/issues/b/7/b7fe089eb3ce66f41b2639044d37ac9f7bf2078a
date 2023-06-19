@@ -1,0 +1,37 @@
+
+p	java:S106R"9Replace this use of System.out or System.err by a logger.(ÖÓ şúÿÿÿÿ8ÿ’ƒÏî0HÛRMAJORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(µÊ¤“HÜRMINORZ
+CODE_SMELL
+p
+java:S2147K"DCombine this catch with the one at line 70, which has the same body.(ï­£ÄHİRMINORZ
+CODE_SMELL
+x
+java:S26770"LUse or store the value returned from "readLine" instead of throwing it away.(²’Şœ8§€óÎî0HßRMAJORZBUG
+w	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(şùÜ5HàRMINORZ
+CODE_SMELL
+d	java:S106I"9Replace this use of System.out or System.err by a logger.(ıÜøHáRMAJORZ
+CODE_SMELL
+u
+java:S2095"IUse try-with-resources or close this "PrintWriter" in a "finally" clause.(¯É ÛûÿÿÿÿHâRBLOCKERZBUG
+d	java:S106&"9Replace this use of System.out or System.err by a logger.( £‰HãRMAJORZ
+CODE_SMELL
+i	java:S106!"9Replace this use of System.out or System.err by a logger.(‚…ÕØşÿÿÿÿHäRMAJORZ
+CODE_SMELL
+n	java:S1254"<This block of commented-out lines of code should be removed.(’èÀş8±ú„Ïî0HåRMAJORZ
+CODE_SMELL
+s
+java:S2095,"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(–ƒÌıHæRBLOCKERZBUG
+Œ
+java:S2293)"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŒÍı³8ıÍ÷Îî0HçRMINORZ
+CODE_SMELL
+j
+java:S1854/"9Remove this useless assignment to local variable "linea".(¤ÁìòÿÿÿÿÿHéRMAJORZ
+CODE_SMELL
+d	java:S106 "9Replace this use of System.out or System.err by a logger.(º‚É¦HêRMAJORZ
+CODE_SMELL
+S
+java:S1481$"'Remove this unused "f2" local variable.(†ÑÖ¯HëRMINORZ
+CODE_SMELL
+o
+java:S2095+"HUse try-with-resources or close this "FileReader" in a "finally" clause.(ôıÆšHíRBLOCKERZBUG

@@ -1,0 +1,20 @@
+
+‚	java:S116"PRename this field "Autor" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï½±¾8Æ­âñê0H½RMINORZ
+CODE_SMELL
+ƒ	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒöÉÃ8Æ­âñê0HÁRMINORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŠøÑ²HÂRMINORZ
+CODE_SMELL
+€	java:S100%"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒöÉÃ8Æ­âñê0H¹RMINORZ
+CODE_SMELL
+ˆ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š›–£ûÿÿÿÿ8Æ­âñê0H¿RMINORZ
+CODE_SMELL
+	java:S116"ORename this field "ISBN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤‚ˆ™8Æ­âñê0H¾RMINORZ
+CODE_SMELL
+f
+java:S1172 ".Remove this unused method parameter "idLibro".(ö’´¸øÿÿÿÿ8¨¯Òòê0H»RMAJORZ
+CODE_SMELL
+…	java:S116"SRename this field "id_libro" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šæ8Æ­âñê0HºRMINORZ
+CODE_SMELL
+…	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö’´¸øÿÿÿÿ8Æ­âñê0HÀRMINORZ
+CODE_SMELL

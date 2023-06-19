@@ -1,0 +1,15 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.( ½΅8ƒΡΫϋδ0H“RMAJORZ
+CODE_SMELL
+€	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ξƒÿ8½ψϋδ0H”RMINORZ
+CODE_SMELL
+`
+java:S1172#"(Remove this unused method parameter "z".(Θ‚ψÿÿÿÿ8βΉ®όδ0H•RMAJORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(πξH—RMINORZ
+CODE_SMELL
+t
+java:S2184$"HCast one of the operands of this multiplication operation to a "double".(ƒÒ›8βΉ®όδ0HRMINORZBUG
+v
+java:S1659">Declare "y" and all following declarations on a separate line.(—―ΉΘύÿÿÿÿ8ƒΡΫϋδ0H™RMINORZ
+CODE_SMELL

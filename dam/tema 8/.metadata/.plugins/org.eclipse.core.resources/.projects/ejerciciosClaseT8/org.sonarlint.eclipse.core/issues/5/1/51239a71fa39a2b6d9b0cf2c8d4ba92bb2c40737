@@ -1,0 +1,31 @@
+
+„
+java:S1192"IDefine a constant instead of duplicating this literal "montaÃ±a" 4 times.(ÈŞÄƒøÿÿÿÿ8ŒêÖÃç0HäRCRITICALZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤·ü´şÿÿÿÿHéRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ÓÁ°•øÿÿÿÿ8ŒêÖÃç0HêRMAJORZ
+CODE_SMELL
+_
+java:S1125*"'Remove the unnecessary boolean literal.(¡‹¤¶øÿÿÿÿ8¡á€Äç0HëRMINORZ
+CODE_SMELL
+
+java:S1192"FDefine a constant instead of duplicating this literal "rural" 4 times.( äûÿÿÿÿÿ8ŒêÖÃç0HíRCRITICALZ
+CODE_SMELL
+p	java:S106/"9Replace this use of System.out or System.err by a logger.(‹’±™ıÿÿÿÿ8½’òÃç0HòRMAJORZ
+CODE_SMELL
+‘
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ç««Ìûÿÿÿÿ8ŒêÖÃç0HóRMINORZ
+CODE_SMELL
+
+java:S1192
+"FDefine a constant instead of duplicating this literal "playa" 5 times.(„åŠ‚ıÿÿÿÿ8ŒêÖÃç0HõRCRITICALZ
+CODE_SMELL
+ˆ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç««Ìûÿÿÿÿ8ŒêÖÃç0HûRMINORZ
+CODE_SMELL
+k	java:S106%"9Replace this use of System.out or System.err by a logger.(‡éÀµ8ŒêÖÃç0HüRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ï¬Ö„ÿÿÿÿÿ8ŒêÖÃç0HıRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(‹’±™ıÿÿÿÿ8ŒêÖÃç0HşRMAJORZ
+CODE_SMELL

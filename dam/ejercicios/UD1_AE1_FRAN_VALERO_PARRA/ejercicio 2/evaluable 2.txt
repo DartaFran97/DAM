@@ -1,0 +1,27 @@
+//evaluable2
+import java.util.Scanner;
+
+public class MyClass {
+    public static void main(String args[]) {
+    Scanner teclado = new Scanner(System.in);
+    
+    System.out.println("introduzca su nombre completo:");
+    String name = teclado.nextLine();
+    
+    System.out.println("Valor total de la hipoteca bancaria: ");
+    double hipoteca = teclado.nextDouble();
+     
+    System.out.println("De cuantos años dispone su hipoteca: ");
+    double años = teclado.nextDouble();
+    
+    double mensualidad = (hipoteca / años * 12);
+    
+    System.out.println("bienvenido al Dartabank");
+    
+    System.out.println("Nombre: " + name);
+    System.out.println("Valor  de la hipoteca bancaria: " + hipoteca + " €");
+    System.out.println("Años contratados: " + años + " años");
+    System.out.println("precio de la mensualidada: " + mensualidad + " €");
+
+    }
+}
